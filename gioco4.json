@@ -1,13 +1,13 @@
 {
-  "title": "🔍 Guess Serracapriola",
-  "intro": "The photo is blurred: can you tell which place or moment of Serracapriola it is? Pick one of 4 answers.",
-  "photo": "Photo",
-  "score": "Score",
-  "blurred": "Blurred photo",
-  "next": "Next photo",
-  "results": "See result",
-  "great": "Great, you know Serracapriola well!",
-  "good": "Good, but you can do even better.",
-  "retry": "Try again: the town history awaits.",
-  "playAgain": "Play again"
+  "title": "🔍 Adivina Serracapriola",
+  "intro": "La foto está borrosa: ¿sabes de qué lugar o momento de Serracapriola se trata? Elige entre 4 respuestas.",
+  "photo": "Foto",
+  "score": "Puntos",
+  "blurred": "Foto borrosa",
+  "next": "Siguiente foto",
+  "results": "Ver el resultado",
+  "great": "¡Muy bien, conoces bien Serracapriola!",
+  "good": "Bien, pero puedes hacerlo mejor.",
+  "retry": "Inténtalo de nuevo: la historia del pueblo te espera.",
+  "playAgain": "Jugar de nuevo"
 }
