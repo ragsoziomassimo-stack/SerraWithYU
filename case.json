@@ -1,11 +1,11 @@
 {
-  "h_card": "🏠 Casas en Venta o Alquiler",
-  "portalsTitle": "Casas en venta/alquiler en portales inmobiliarios",
-  "portalsIntro": "Consulta los anuncios de agencias en los principales portales inmobiliarios, filtrados solo para Serracapriola.",
-  "portal.immobiliareVendita": "Immobiliare.it — Venta",
-  "portal.immobiliareAffitto": "Immobiliare.it — Alquiler",
-  "portal.idealistaVendita": "Idealista.it — Venta",
-  "portal.idealistaAffitto": "Idealista.it — Alquiler",
-  "portal.casaIt": "Casa.it — Venta",
-  "portal.subitoIt": "Subito.it — Anuncios"
+  "h_card": "🏠 Maisons à Vendre ou à Louer",
+  "portalsTitle": "Maisons à vendre/louer sur les portails immobiliers",
+  "portalsIntro": "Consultez les annonces des agences sur les principaux portails immobiliers, filtrées uniquement pour Serracapriola.",
+  "portal.immobiliareVendita": "Immobiliare.it — Vente",
+  "portal.immobiliareAffitto": "Immobiliare.it — Location",
+  "portal.idealistaVendita": "Idealista.it — Vente",
+  "portal.idealistaAffitto": "Idealista.it — Location",
+  "portal.casaIt": "Casa.it — Vente",
+  "portal.subitoIt": "Subito.it — Annonces"
 }

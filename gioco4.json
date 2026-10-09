@@ -1,13 +1,13 @@
 {
-  "title": "🔍 Adivina Serracapriola",
-  "intro": "La foto está borrosa: ¿sabes de qué lugar o momento de Serracapriola se trata? Elige entre 4 respuestas.",
-  "photo": "Foto",
-  "score": "Puntos",
-  "blurred": "Foto borrosa",
-  "next": "Siguiente foto",
-  "results": "Ver el resultado",
-  "great": "¡Muy bien, conoces bien Serracapriola!",
-  "good": "Bien, pero puedes hacerlo mejor.",
-  "retry": "Inténtalo de nuevo: la historia del pueblo te espera.",
-  "playAgain": "Jugar de nuevo"
+  "title": "🔍 Devine Serracapriola",
+  "intro": "La photo est floue : sais-tu de quel lieu ou moment de Serracapriola il s'agit ? Choisis parmi 4 réponses.",
+  "photo": "Photo",
+  "score": "Points",
+  "blurred": "Photo floue",
+  "next": "Photo suivante",
+  "results": "Voir le résultat",
+  "great": "Bravo, tu connais bien Serracapriola !",
+  "good": "Bien, mais tu peux faire mieux.",
+  "retry": "Réessaie : l'histoire du village t'attend.",
+  "playAgain": "Rejouer"
 }
