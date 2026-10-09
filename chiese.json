@@ -1,20 +1,28 @@
 {
-  "h_card": "Églises de Serracapriola",
-  "p_intro": "Serracapriola préserve un riche patrimoine d'églises et de lieux de culte, témoignage vivant de siècles de foi et de dévotion populaire.",
-  "link_mappa": "Voir sur Google Maps",
-  "mercurio_nome": "Église San Mercurio",
-  "mercurio_storia": "Dédiée au martyr San Mercurio, soldat romain converti au christianisme, cette église est l'une des plus anciennes de Serracapriola. Selon la tradition, elle fut édifiée au début du Moyen Âge, lorsque le culte des martyrs orientaux se répandit dans le sud de l'Italie par les moines basiliens.",
+  "h_card": "Chiese di Serracapriola",
+  "p_intro": "Serracapriola custodisce un ricco patrimonio di chiese e luoghi di culto, testimonianza viva di secoli di fede e devozione popolare.",
+  "link_mappa": "Vedi su Google Maps",
+
+  "mercurio_nome": "Chiesa di San Mercurio",
+  "mercurio_storia": "Dedicata al martire San Mercurio, soldato romano convertito al Cristianesimo, questa chiesa è una delle più antiche di Serracapriola. Secondo la tradizione fu edificata nel periodo altomedievale, quando il culto dei martiri orientali si diffuse nel Mezzogiorno attraverso i monaci basiliani. La chiesa conserva tracce di affreschi votivi e una statua lignea del Santo, portata in processione in occasione della sua festa. Il titolo di San Mercurio rimanda ai profondi legami del territorio con la cultura greco-bizantina.",
+
   "silvis_nome": "Santa Maria in Silvis",
-  "silvis_storia": "L'église Santa Maria in Silvis — 'dans les bois' — se dresse dans une position isolée dans une zone autrefois couverte de forêts denses. D'origine médiévale, elle était le but de pèlerinages saisonniers des communautés rurales.",
-  "cappuccini_nome": "Couvent des Frères Capucins",
-  "cappuccini_storia": "Le Couvent des Frères Capucins fut fondé au XVIe siècle et a joué un rôle fondamental dans la vie religieuse et sociale de Serracapriola. Après les suppressions napoléoniennes du XIXe siècle, l'église est restée un point de référence pour les fidèles. Parmi les frères capucins ayant séjourné dans ce couvent figure également saint Padre Pio de Pietrelcina, un lien qui rend ce lieu encore plus cher à la dévotion populaire de Serracapriola.",
-  "anna_nome": "Église Sant'Anna",
-  "anna_storia": "L'église Sant'Anna, dédiée à la mère de la Vierge Marie, est un lieu de dévotion particulière pour les familles de Serracapriola. L'intérieur conserve un autel avec la statue de la Sainte représentée avec la petite Marie et saint Joachim.",
-  "angelo_nome": "Église Sant'Angelo",
-  "angelo_storia": "Dédiée à l'archange Michel, patron du sud de l'Italie, l'église Sant'Angelo reflète la dévotion michaélique répandue dans les Pouilles. La présence d'une église dédiée à l'archange est documentée depuis le XVIe siècle.",
-  "trinita_nome": "Église de la Très Sainte Trinité",
-  "trinita_storia": "L'église de la Très Sainte Trinité fut construite par une confrérie locale. L'édifice conserve un autel majeur avec un beau tableau représentant la Trinité.",
-  "grazie_nome": "Église Santa Maria delle Grazie",
-  "grazie_storia": "L'église Santa Maria delle Grazie est dédiée à la Madone vénérée comme dispensatrice de grâces et de miracles. L'intérieur conserve de nombreux ex-votos témoignant des grâces reçues par les fidèles au fil des siècles.",
-  "p_nota": "Pour les horaires des messes et l'ouverture des églises, contactez la Paroisse de Serracapriola."
+  "silvis_storia": "La chiesa di Santa Maria in Silvis — 'in mezzo ai boschi' — sorge in posizione isolata sul territorio comunale, nel cuore di una zona un tempo ricoperta da fitte foreste. Di origine medievale, probabilmente longobarda o alto-medievale, era meta di pellegrinaggi stagionali da parte delle comunità rurali. L'edificio, in pietra locale, è caratterizzato da forme semplici e austere. La venerata immagine della Madonna custodita al suo interno era invocata dai contadini per la protezione dei raccolti e del bestiame.",
+
+  "cappuccini_nome": "Convento dei Frati Cappuccini",
+  "cappuccini_storia": "Il Convento dei Frati Cappuccini fu fondato nel XVI secolo, nel pieno fermento della Riforma Cattolica. I Cappuccini, ramo riformato dell'Ordine francescano, scelsero Serracapriola come sede di una loro comunità, svolgendo un ruolo fondamentale nella vita religiosa, sociale e assistenziale del paese. Il convento, con la sua chiesa annessa, era luogo di predicazione, ospitalità e cura dei poveri. Dopo le soppressioni napoleoniche dell'Ottocento l'edificio cambiò destinazione, ma la chiesa rimase punto di riferimento per i fedeli. Tra i frati Cappuccini che soggiornarono in questo convento vi fu anche San Padre Pio da Pietrelcina, legame che rende il luogo ancora più caro alla devozione popolare di Serracapriola.",
+
+  "anna_nome": "Chiesa di Sant'Anna",
+  "anna_storia": "La chiesa di Sant'Anna, dedicata alla madre della Vergine Maria, è luogo di particolare devozione per le famiglie serracapriolesi. Eretta probabilmente in età barocca su iniziativa di una confraternita locale, la chiesa celebra la sua festa il 26 luglio con una sentita messa solenne. L'interno conserva un altare con la statua della Santa raffigurata insieme alla piccola Maria e a San Gioacchino, secondo l'iconografia tradizionale. La festa di Sant'Anna è da sempre occasione di ritrovo per le famiglie del paese.",
+
+  "angelo_nome": "Chiesa di Sant'Angelo",
+  "angelo_storia": "Dedicata all'Arcangelo Michele, patrono del Mezzogiorno d'Italia, la chiesa di Sant'Angelo riflette la diffusa devozione micaelica che caratterizza tutta la Puglia e il Gargano. La presenza di una chiesa dedicata all'Arcangelo a Serracapriola è documentata almeno dal XVI secolo ed è legata al pellegrinaggio verso il Santuario di San Michele sul Gargano, che transitava per questi territori. La festa si celebra il 29 settembre e il 8 maggio, le due ricorrenze tradizionali dell'Arcangelo.",
+
+  "trinita_nome": "Chiesa della Santissima Trinità",
+  "trinita_storia": "La chiesa della Santissima Trinità fu eretta per volontà di una confraternita locale, come era consuetudine nel Meridione d'Italia tra il XVI e il XVII secolo. Le confraternite erano associazioni di laici devoti che provvedevano al culto, alle opere di carità e all'accompagnamento funebre dei confratelli. L'edificio, di sobria architettura controriformistica, conserva un altare maggiore con una bella tela raffigurante la Trinità e alcuni arredi sacri d'epoca. La confraternita era attiva fino al XIX secolo.",
+
+  "grazie_nome": "Chiesa di Santa Maria delle Grazie",
+  "grazie_storia": "La chiesa di Santa Maria delle Grazie, eretta probabilmente nel XVII secolo, è dedicata alla Madonna venerata come dispensatrice di grazie e miracoli. Sorgeva originariamente alle porte del paese, come era tipico per le chiese mariane, per accogliere i viandanti e i devoti in arrivo. L'interno conserva numerosi ex voto — piccole tavolette dipinte — che testimoniano le grazie ricevute dai fedeli nel corso dei secoli. La festa della Madonna delle Grazie si celebra nella prima domenica di luglio.",
+
+  "p_nota": "Per informazioni su orari delle messe e apertura delle chiese contattare la Parrocchia di Serracapriola."
 }

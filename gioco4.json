@@ -1,13 +1,13 @@
 {
-  "title": "🔍 Devine Serracapriola",
-  "intro": "La photo est floue : sais-tu de quel lieu ou moment de Serracapriola il s'agit ? Choisis parmi 4 réponses.",
-  "photo": "Photo",
-  "score": "Points",
-  "blurred": "Photo floue",
-  "next": "Photo suivante",
-  "results": "Voir le résultat",
-  "great": "Bravo, tu connais bien Serracapriola !",
-  "good": "Bien, mais tu peux faire mieux.",
-  "retry": "Réessaie : l'histoire du village t'attend.",
-  "playAgain": "Rejouer"
+  "title": "🔍 Indovina Serracapriola",
+  "intro": "La foto è sfocata: capisci di che luogo o momento di Serracapriola si tratta? Scegli tra 4 risposte.",
+  "photo": "Foto",
+  "score": "Punti",
+  "blurred": "Foto sfocata",
+  "next": "Prossima foto",
+  "results": "Vedi il risultato",
+  "great": "Bravissimo, conosci bene Serracapriola!",
+  "good": "Bene, ma puoi fare ancora meglio.",
+  "retry": "Riprova: la storia del paese ti aspetta.",
+  "playAgain": "Gioca ancora"
 }

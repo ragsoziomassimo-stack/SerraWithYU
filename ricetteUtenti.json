@@ -1,12 +1,12 @@
 {
-  "title": "Les recettes des lecteurs",
-  "intro": "Une recette de famille ? Écrivez-la ici et publiez-la : tout le monde la verra.",
-  "author": "Votre nom",
-  "recipeName": "Nom de la recette",
-  "recipeText": "Écrivez la recette : ingrédients et préparation",
-  "publish": "Publier la recette",
-  "published": "Recette publiée",
-  "error": "Publication impossible, réessayez",
-  "empty": "Aucune recette pour l’instant, écrivez la première !",
-  "by": "par"
+  "title": "Le ricette dei lettori",
+  "intro": "Hai una ricetta di famiglia? Scrivila qui e pubblicala: la vedranno tutti.",
+  "author": "Il tuo nome",
+  "recipeName": "Nome della ricetta",
+  "recipeText": "Scrivi la ricetta: ingredienti e preparazione",
+  "publish": "Pubblica la ricetta",
+  "published": "Ricetta pubblicata",
+  "error": "Non è stato possibile pubblicare, riprova",
+  "empty": "Nessuna ricetta pubblicata, scrivi la prima!",
+  "by": "di"
 }

@@ -1,62 +1,62 @@
 {
-  "title": "🛒 Produits Typiques",
-  "subtitle": "Les spécialités gastronomiques de Serracapriola et de l'Apennin Dauno",
+  "title": "🛒 Prodotti Tipici",
+  "subtitle": "Le eccellenze gastronomiche di Serracapriola e del Subappennino Dauno",
   "products": [
     {
-      "name": "Huile d'Olive Extra Vierge",
-      "desc": "Serracapriola est une terre d'oliviers millénaires. L'huile locale, au goût fruité et léger, est produite par des moulins historiques du territoire. Variétés ogliarola et peranzana, récoltées à la main chaque automne."
+      "name": "Olio Extravergine d'Oliva",
+      "desc": "Serracapriola è terra di ulivi millenari. L'olio locale, dal sapore fruttato e leggero, è prodotto da storici frantoi del territorio. Varietà ogliarola e peranzana, raccolte a mano ogni autunno."
     },
     {
-      "name": "Pain & Boulangerie",
-      "desc": "Le pain de Serracapriola est cuit au feu de bois, avec de la farine de blé dur locale. Parfumé à l'extérieur, moelleux à l'intérieur, il se conserve plusieurs jours. Typiques aussi les friselle et le pain rustique."
+      "name": "Pane & Forno",
+      "desc": "Il pane di Serracapriola è cotto a legna, con farina di grano duro locale. Fragrante fuori, morbido dentro, si conserva per giorni. Tipici anche le friselle e il pane cafone."
     },
     {
       "name": "Taralli",
-      "desc": "Les taralli des Pouilles sont le symbole du street food local : pétris avec de l'huile d'olive, du vin blanc et du fenouil, puis bouillis et cuits au four jusqu'à dorure. Croustillants et irrésistibles. Où les trouver : I Taralli di Zio Pino, Via Cavalier de Luca 20, tél. 347 665 2559 (vérifiez le numéro avant)."
+      "desc": "I taralli pugliesi sono il simbolo dello street food locale: impastati con olio d'oliva, vino bianco e finocchietto, poi bolliti e infornati fino a doratura. Croccanti e irresistibili. Dove trovarli: I Taralli di Zio Pino, Via Cavalier de Luca 20, tel. 347 665 2559 (meglio verificare il numero prima)."
     },
     {
       "name": "Pampanella",
-      "desc": "La pampanella est un plat typique de la région : du porc mariné au piment, à l'ail et au vinaigre, cuit lentement au four. Savoureux et piquant, il est la star des fêtes villageoises."
+      "desc": "La pampanella è un piatto tipico della zona: maiale marinato con peperoncino, aglio e aceto, cotto lentamente al forno. Saporita e piccante, è protagonista delle feste paesane."
     },
     {
-      "name": "Poivrons Cruschi (les \"Diavlill\")",
-      "desc": "Les poivrons cruschi — appelés \"diavlill\" en dialecte local — sont des poivrons doux séchés au soleil puis frits dans de l'huile bouillante jusqu'à devenir très croustillants et friables. Une explosion de saveur douce-fumée, utilisés en entrée, émiettés sur des pâtes, des œufs ou simplement en snack. Présidium Slow Food, ils sont l'un des symboles les plus authentiques de la cuisine paysanne de l'Apennin Dauno."
+      "name": "Peperoni Cruschi (i \"Diavlill\")",
+      "desc": "I peperoni cruschi — detti in dialetto serracapriolese \"diavlill\" — sono peperoni dolci essiccati al sole e poi fritti in olio bollente fino a diventare croccantissimi e friabili. Un'esplosione di sapore dolce-affumicato, usati come antipasto, sbriciolati sulla pasta, sulle uova o semplicemente come snack. Presidio Slow Food, sono uno dei simboli più autentici della cucina povera del Subappennino Dauno."
     },
     {
-      "name": "Saucisses & Charcuterie",
-      "desc": "La saucisse locale est préparée avec des viandes de porc sélectionnées, du piment, du fenouil et des épices locales. Fraîche ou séchée, elle accompagne pâtes et grillades. Aussi du capocollo et de la soppressata artisanaux."
+      "name": "Salsiccia & Salumi",
+      "desc": "La salsiccia paesana è preparata con carni suine selezionate, peperoncino, finocchietto e spezie locali. Fresca o stagionata, accompagna pasta e grigliate. Anche capocollo e soppressata artigianali."
     },
     {
-      "name": "Vin",
-      "desc": "Le territoire produit des vins robustes et parfumés à base de Nero di Troia et Montepulciano d'Abruzzo. Rouges, rosés et blancs authentiques, idéaux avec la cuisine locale."
+      "name": "Vino",
+      "desc": "Il territorio produce vini robusti e profumati a base di Nero di Troia e Montepulciano d'Abruzzo. Rossi, rosati e bianchi genuini, ideali con i piatti della cucina locale."
     },
     {
-      "name": "Pâtes & Orecchiette",
-      "desc": "Les orecchiette et cavatelli faits à la main sont encore confectionnés par les ménagères locales. Assaisonnés avec du ragù d'agneau, des feuilles de navet ou des tomates fraîches du Tavoliere, ils sont le cœur de la cuisine serrane."
+      "name": "Pasta & Orecchiette",
+      "desc": "Le orecchiette e i cavatelli fatti a mano sono ancora tirate dalle massaie. Condite con ragù di agnello, cime di rapa o pomodoro fresco del Tavoliere, sono il cuore della cucina serrana."
     },
     {
       "name": "Torcinelli",
-      "desc": "Les torcinelli sont l'un des plats les plus anciens et identitaires de la cuisine locale. Abats d'agneau ou de chevreau — foie, poumon, cœur — enveloppés dans les boyaux et cuits sur le grill ou à la poêle avec ail, persil et piment. Saveur intense et rustique, symbole de la cuisine paysanne de l'Apennin Dauno."
+      "desc": "I torcinelli sono uno dei piatti più antichi e identitari della cucina serrana. Interiora di agnello o capretto — fegato, polmone, cuore — avvolte nelle budella e cotte sulla brace o in padella con aglio, prezzemolo e peperoncino. Sapore intenso e rustico, simbolo della cucina contadina del Subappennino Dauno."
     },
     {
       "name": "Zeppole di San Giuseppe",
-      "desc": "Les zeppole di San Giuseppe sont la pâtisserie de la fête des pères (19 mars) par excellence. Pâte à choux frite ou au four, fourrée de crème pâtissière et de griottes au sirop. À Serracapriola, on les prépare encore à la maison selon la recette des grands-mères, moelleuses à l'intérieur et dorées à l'extérieur."
+      "desc": "Le zeppole di San Giuseppe sono il dolce della festa del papà (19 marzo) per eccellenza. Pasta choux fritta o al forno, farcita con crema pasticciera e amarene sciroppate. A Serracapriola le preparano ancora in casa con la ricetta delle nonne, morbide dentro e dorate fuori."
     },
     {
       "name": "Mostaccioli",
-      "desc": "Les mostaccioli sont des biscuits durs et épicés typiques du sud de l'Italie, préparés avec du moût cuit, de la farine, des amandes, de la cannelle, des clous de girofle et du poivre. À Serracapriola, on les fait pour les fêtes et ils se conservent longtemps. Chaque famille a sa propre recette transmise de génération en génération."
+      "desc": "I mostaccioli sono biscotti duri e speziati tipici del Sud Italia, preparati con mosto cotto, farina, mandorle, cannella, chiodi di garofano e pepe. A Serracapriola si fanno in occasione delle feste e si conservano a lungo. Ogni famiglia ha la propria ricetta tramandata di generazione in generazione."
     },
     {
-      "name": "Gâteaux aux Amandes",
-      "desc": "Les gâteaux aux amandes sont parmi les spécialités les plus raffinées de la pâtisserie serrane. Des pâtes d'amandes parfumées à l'eau de fleur d'oranger, façonnées à la main en formes de fruits ou de fleurs et décorées de sucre coloré. Moelleux à l'extérieur, intensément aromatiques à l'intérieur — incontournables aux mariages et aux fêtes."
+      "name": "Dolci di Mandorla",
+      "desc": "I dolci di mandorla sono tra le specialità più raffinate della pasticceria serrana. Paste di mandorla profumate all'acqua di fiori d'arancio, modellate a mano in forme di frutta o fiori e decorate con zucchero colorato. Morbidi fuori, intensamente aromatici dentro — immancabili ai matrimoni e alle feste."
     },
     {
       "name": "Pasticciotti",
-      "desc": "Le pasticciotto est une coque de pâte sablée beurrée garnie de crème pâtissière épaisse, cuite au four jusqu'à dorure. Typique des Pouilles et du Salento, il a aussi trouvé sa place sur les tables de Serracapriola, devenant l'une des pâtisseries préférées des petits et des grands — parfait au petit-déjeuner ou en collation."
+      "desc": "Il pasticciotto è un guscio di frolla burrosa ripieno di crema pasticciera densa, cotto in forno fino a doratura. Tipico della Puglia e del Salento, è arrivato anche sulle tavole serresi diventando uno dei dolci più amati da grandi e bambini — perfetto a colazione o come merenda."
     },
     {
       "name": "Caciocavallo",
-      "desc": "Le caciocavallo podolico est le roi des fromages de l'Apennin Dauno. Produit avec du lait de vaches podoliques en pâturage, il a une saveur intense et légèrement piquante. Frais ou affiné, aussi fumé."
+      "desc": "Il caciocavallo podolico è il re dei formaggi del Subappennino Dauno. Prodotto con latte di vacche podoliche al pascolo, ha sapore intenso e leggermente piccante. Fresco o stagionato, anche affumicato."
     }
   ]
 }
