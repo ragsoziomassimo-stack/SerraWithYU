@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Offline - SerraWithY❤U</title>
+    <style>
+      body {
+        font-family: "Lato", system-ui, sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        margin: 0;
+        background: #fffaf5;
+        color: #333;
+      }
+      .container {
+        text-align: center;
+        padding: 2rem;
+        max-width: 360px;
+      }
+      h1 {
+        color: #8b2500;
+        font-size: 1.4rem;
+        margin-bottom: 0.75rem;
+      }
+      p {
+        font-size: 0.95rem;
+        line-height: 1.5;
+        margin-bottom: 1.5rem;
+      }
+      button {
+        background: #8b2500;
+        color: #fff;
+        border: none;
+        border-radius: 12px;
+        padding: 0.65rem 1.5rem;
+        font-size: 0.9rem;
+        font-weight: 700;
+        cursor: pointer;
+      }
+      button:hover {
+        background: #6e1c00;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Sei offline</h1>
+      <p>Controlla la tua connessione a internet e riprova.</p>
+      <button onclick="window.location.reload()">Riprova</button>
+    </div>
+  </body>
+</html>
