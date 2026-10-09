@@ -1,0 +1,22 @@
+{
+  "h_card": "WebCam",
+  "p_intro": "Gledayte Serrakapriola na zhivo ot obshtestvenite uebkameri v rayona.",
+  "cam1_nome": "Zhivo izgled na glavnata ulitsa i glavniya ploshtad",
+  "cam1_nota": "Corso Garibaldi i Piazza Municipio — Serrakapriola",
+  "cam2_nome": "LINK Comune di Serracapriola",
+  "cam2_nota": "",
+  "p_nota": "Uebkamerite se upravlyavat ot treti strani. Ako vryzkata ne raboti, uebkamerata mozhe da e vremenno offline.",
+  "ul_h": "Видео връзки от потребителите",
+  "ul_intro": "Намерихте видео или уеб камера на друг сайт? Публикувайте връзката тук.",
+  "ul_title": "Заглавие на връзката",
+  "ul_url": "Адрес (https://...)",
+  "ul_publish": "Публикувай връзка",
+  "ul_ok": "Връзката е публикувана",
+  "ul_bad": "Невалиден адрес: трябва да започва с https://",
+  "ul_err": "Публикуването не успя, опитайте отново",
+  "ul_empty": "Все още няма връзки.",
+  "ul_warn": "Връзките се публикуват от потребители: отваряйте само сайтове, на които се доверявате.",
+  "live_btn": "На живо",
+  "live_hint": "Започнете предаване от своя Facebook и поставете тук връзката със заглавие.",
+  "live_steps": "1. Натиснете бутона и влезте във Facebook. 2. Започнете предаването и го публикувайте в профила си. 3. Копирайте връзката към видеото и я поставете горе със заглавие."
+}

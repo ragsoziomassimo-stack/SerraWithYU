@@ -1,0 +1,21 @@
+{
+  "welcomeTitle": "Добре дошли в чата!",
+  "welcomeDesc": "Изберете име, за да влезете в публичния чат на SerraWithY❤U",
+  "namePlaceholder": "Вашето име (напр. Иван)",
+  "nameRequired": "Въведете име",
+  "enterChat": "Влез в чата",
+  "headerTitle": "Чат SerraWithY❤U",
+  "headerSubtitle": "Публични съобщения · изчезват след 48 часа",
+  "greeting": "Здравей, {{name}}!",
+  "changeName": "Смени името",
+  "emptyTitle": "Все още няма съобщения.",
+  "emptySubtitle": "Започнете разговора!",
+  "sendPhoto": "Изпрати снимка",
+  "messagePlaceholder": "Напишете съобщение...",
+  "sendError": "Грешка при изпращане на съобщението",
+  "uploadError": "Качването се провали",
+  "onlyImages": "Поддържат се само изображения",
+  "imageTooLarge": "Изображението е макс. 10 MB",
+  "deleted": "Съобщението е изтрито",
+  "errorDelete": "Грешка при изтриване"
+}
