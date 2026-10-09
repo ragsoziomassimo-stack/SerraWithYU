@@ -1,12 +1,12 @@
 {
-  "title": "Рецептите на читателите",
-  "intro": "Имате семейна рецепта? Напишете я тук и я публикувайте: всички ще я видят.",
-  "author": "Вашето име",
-  "recipeName": "Име на рецептата",
-  "recipeText": "Напишете рецептата: продукти и приготвяне",
-  "publish": "Публикувай рецептата",
-  "published": "Рецептата е публикувана",
-  "error": "Неуспешно публикуване, опитайте пак",
-  "empty": "Още няма рецепти, напишете първата!",
-  "by": "от"
+  "title": "Rezepte der Leser",
+  "intro": "Hast du ein Familienrezept? Schreibe es hier und veröffentliche es: alle können es sehen.",
+  "author": "Dein Name",
+  "recipeName": "Name des Rezepts",
+  "recipeText": "Rezept schreiben: Zutaten und Zubereitung",
+  "publish": "Rezept veröffentlichen",
+  "published": "Rezept veröffentlicht",
+  "error": "Veröffentlichen nicht möglich, bitte erneut versuchen",
+  "empty": "Noch keine Rezepte, schreibe das erste!",
+  "by": "von"
 }

@@ -1,13 +1,13 @@
 {
-  "title": "🔍 Познай Серакаприола",
-  "intro": "Снимката е размазана: можеш ли да познаеш за кое място или момент от Серакаприола става дума? Избери един от 4 отговора.",
-  "photo": "Снимка",
-  "score": "Точки",
-  "blurred": "Размазана снимка",
-  "next": "Следваща снимка",
-  "results": "Виж резултата",
-  "great": "Браво, познаваш добре Серакаприола!",
-  "good": "Добре, но можеш и по-добре.",
-  "retry": "Опитай пак: историята на градчето те чака.",
-  "playAgain": "Играй отново"
+  "title": "🔍 Rate Serracapriola",
+  "intro": "Das Foto ist unscharf: Erkennst du, welcher Ort oder Moment aus Serracapriola es ist? Wähle eine von 4 Antworten.",
+  "photo": "Foto",
+  "score": "Punkte",
+  "blurred": "Unscharfes Foto",
+  "next": "Nächstes Foto",
+  "results": "Ergebnis ansehen",
+  "great": "Super, du kennst Serracapriola gut!",
+  "good": "Gut, aber es geht noch besser.",
+  "retry": "Versuch es nochmal: die Geschichte des Ortes wartet.",
+  "playAgain": "Nochmal spielen"
 }

@@ -1,62 +1,62 @@
 {
-  "title": "🛒 Типични Продукти",
-  "subtitle": "Гастрономическите съкровища на Серракаприола и Апенините Дауния",
+  "title": "🛒 Typische Produkte",
+  "subtitle": "Die gastronomischen Köstlichkeiten von Serracapriola und dem Daunia-Apennin",
   "products": [
     {
-      "name": "Зехтин Екстра Върджин",
-      "desc": "Серракаприола е земя на хилядолетни маслинови дървета. Местното масло с плодов и лек вкус се произвежда от исторически маслобойни в района. Сортовете Оляриола и Перандзана се берат на ръка всяка есен."
+      "name": "Natives Olivenöl Extra",
+      "desc": "Serracapriola ist ein Land tausendjähriger Olivenbäume. Das lokale Öl mit seinem fruchtigen und leichten Geschmack wird von historischen Ölmühlen der Region hergestellt. Sorten Ogliarola und Peranzana, jeden Herbst von Hand geerntet."
     },
     {
-      "name": "Хляб & Пекарна",
-      "desc": "Хлябът от Серракаприола се пече в дърва с местно брашно от твърда пшеница. Ароматен отвън, мек отвътре, запазва се с дни. Типични са и фриселите и селският хляб."
+      "name": "Brot & Bäckerei",
+      "desc": "Das Brot von Serracapriola wird im Holzofen gebacken, mit lokalem Hartweizenmehl. Außen duftend, innen weich, hält es sich tagelang. Typisch sind auch Friselle und rustikales Landbrot."
     },
     {
-      "name": "Тарали",
-      "desc": "Апулийските тарали са символ на местния стрийт фуд: замесени с зехтин, бяло вино и копър, след което се варят и запичат до златисто. Хрупкави и неустоими. Къде да ги намерите: I Taralli di Zio Pino, Via Cavalier de Luca 20, тел. 347 665 2559 (проверете номера предварително)."
+      "name": "Taralli",
+      "desc": "Apulische Taralli sind das Symbol des lokalen Street Foods: mit Olivenöl, Weißwein und Fenchel geknetet, dann gekocht und goldbraun gebacken. Knusprig und unwiderstehlich. Wo man sie findet: I Taralli di Zio Pino, Via Cavalier de Luca 20, Tel. 347 665 2559 (Nummer bitte vorher prüfen)."
     },
     {
-      "name": "Пампанела",
-      "desc": "Пампанелата е типично ястие от района: свинско месо мариновано с чушка, чесън и оцет, бавно печено на фурна. Вкусно и лютиво, то е звездата на селските празници."
+      "name": "Pampanella",
+      "desc": "Pampanella ist ein typisches Gericht der Region: Schweinefleisch mariniert mit Chili, Knoblauch und Essig, langsam im Ofen gegart. Würzig und scharf, Hauptdarsteller der Dorffeste."
     },
     {
-      "name": "Пиперки Крушки (\"Диавлил\")",
-      "desc": "Пиперките крушки — наречени \"диавлил\" на местния диалект — са сладки чушки, сушени на слънце, след което пържени в горещо олио до хрупкавост и крехкост. Взрив от сладко-пушен вкус, използвани като предястие, натрошени върху паста, яйца или просто като снак. Проект Slow Food, те са един от най-автентичните символи на селската кухня на Апенините Дауния."
+      "name": "Cruschi-Paprika (\"Diavlill\")",
+      "desc": "Cruschi-Paprika — im lokalen Dialekt \"diavlill\" genannt — sind süße Paprikaschoten, die in der Sonne getrocknet und dann in heißem Öl frittiert werden, bis sie knusprig und bröselig sind. Eine Explosion aus süß-rauchigem Geschmack, als Vorspeise, über Pasta oder Eiern zerbröselt oder einfach als Snack. Slow Food Presidium und eines der authentischsten Symbole der Bauernküche des Daunia-Apennin."
     },
     {
-      "name": "Колбаси & Месни Деликатеси",
-      "desc": "Местната наденица се приготвя от подбрано свинско месо, люта чушка, копър и местни подправки. Прясна или зряла, придружава паста и скара. Също и занаятчийски капоколо и сопресата."
+      "name": "Wurst & Wurstwaren",
+      "desc": "Die lokale Wurst wird aus ausgewähltem Schweinefleisch, Chili, Fenchel und lokalen Gewürzen hergestellt. Frisch oder gereift, begleitet sie Pasta und Grillgerichte. Auch handwerklicher Capocollo und Soppressata."
     },
     {
-      "name": "Вино",
-      "desc": "Районът произвежда здрави и ароматни вина от гроздето Неро ди Трия и Монтепулчано д'Абруцо. Автентични червени, розови и бели вина, идеални за местната кухня."
+      "name": "Wein",
+      "desc": "Das Gebiet produziert robuste und duftende Weine auf Basis von Nero di Troia und Montepulciano d'Abruzzo. Echte Rot-, Rosé- und Weißweine, ideal zur lokalen Küche."
     },
     {
-      "name": "Паста & Ореккиете",
-      "desc": "Ръчно направените ореккиете и кавателите все още се правят от местните домакини. Поднесени с агнешко рагу, ряпови листа или пресни домати от Таволиере, те са сърцето на кухнята на Серракаприола."
+      "name": "Pasta & Orecchiette",
+      "desc": "Handgemachte Orecchiette und Cavatelli werden noch immer von den Hausfrauen zubereitet. Mit Lammragù, Steckrübengrün oder frischen Tomaten vom Tavoliere angemacht, sind sie das Herz der Küche von Serracapriola."
     },
     {
-      "name": "Торчинели",
-      "desc": "Торчинелите са едно от най-древните и идентични ястия на местната кухня. Агнешки или козели вътрешности — черен дроб, бял дроб, сърце — увити в черва и приготвени на скара или в тиган с чесън, магданоз и люта чушка. Интензивен и селски вкус, символ на селската кухня на Апенините Дауния."
+      "name": "Torcinelli",
+      "desc": "Torcinelli sind eines der ältesten und identitätsstärksten Gerichte der lokalen Küche. Innereien von Lamm oder Zicklein — Leber, Lunge, Herz — in Därme gewickelt und auf dem Grill oder in der Pfanne mit Knoblauch, Petersilie und Chili gegart. Intensiver und rustikaler Geschmack, Symbol der Bauernküche des Daunia-Apennin."
     },
     {
-      "name": "Зеполе ди Сан Джузепе",
-      "desc": "Зеполе ди Сан Джузепе са класическото сладкиш за Деня на бащата (19 март). Пасти шу, пържени или печени, пълнени с крем пастичера и кисели череши в сироп. В Серракаприола все още ги правят вкъщи по рецептата на баби, меки отвътре и златисти отвън."
+      "name": "Zeppole di San Giuseppe",
+      "desc": "Zeppole di San Giuseppe sind das klassische Vatertags-Gebäck (19. März). Brandteig, frittiert oder gebacken, gefüllt mit Vanillecreme und Sauerkirschen. In Serracapriola werden sie noch zu Hause nach Großmutters Rezept zubereitet, innen weich und außen goldbraun."
     },
     {
-      "name": "Мостачоли",
-      "desc": "Мостачолите са твърди, подправени бисквити, типични за Южна Италия, приготвени с гроздова мъст, брашно, бадеми, канела, карамфил и пипер. В Серракаприола ги правят за празниците и се съхраняват дълго. Всяко семейство има своя рецепта, предавана от поколение на поколение."
+      "name": "Mostaccioli",
+      "desc": "Mostaccioli sind harte, gewürzte Kekse aus Süditalien, hergestellt aus eingedicktem Traubenmost, Mehl, Mandeln, Zimt, Nelken und Pfeffer. In Serracapriola werden sie zu Festen gebacken und sind lange haltbar. Jede Familie hat ihr eigenes, über Generationen weitergegebenes Rezept."
     },
     {
-      "name": "Бадемови Сладкиши",
-      "desc": "Бадемовите сладкиши са сред най-изисканите специалитети на местното сладкарство. Бадемови пасти, наситени с вода от портокалов цвят, оформени на ръка като плодове или цветя и украсени с цветна захар. Меки отвън, интензивно ароматни отвътре — задължителни на сватби и празници."
+      "name": "Mandelgebäck",
+      "desc": "Mandelgebäck gehört zu den raffiniertesten Spezialitäten der lokalen Konditorei. Mit Orangenblütenwasser parfümierte Mandelmassen, von Hand in Obst- oder Blumenformen modelliert und mit buntem Zucker dekoriert. Außen weich, innen intensiv aromatisch — unverzichtbar bei Hochzeiten und Festen."
     },
     {
-      "name": "Пастичоти",
-      "desc": "Пастичотото е маслена кора от масленка, пълнена с гъст крем пастичера, изпечена до златисто. Типично за Апулия и Саленто, то е намерило място и на масите на Серракаприола, ставайки един от любимите сладкиши за малки и големи — перфектно за закуска или следобедна закуска."
+      "name": "Pasticciotti",
+      "desc": "Ein Pasticciotto ist eine buttrige Mürbteig-Hülle gefüllt mit dichter Vanillecreme, goldbraun gebacken. Typisch für Apulien und Salento, hat es auch auf den Tischen von Serracapriola Einzug gehalten und ist eines der beliebtesten Gebäcke für Groß und Klein — perfekt zum Frühstück oder als Snack."
     },
     {
-      "name": "Качокавало",
-      "desc": "Подоличото качокавало е царят на сирената от Апенините Дауния. Произведено от млякото на паши крави Подолика, то има интензивен и леко лют вкус. Прясно или зряло, също и пушено."
+      "name": "Caciocavallo",
+      "desc": "Podolico-Caciocavallo ist der König der Käse aus dem Daunia-Apennin. Aus der Milch von Podolica-Weidekühen hergestellt, hat er einen intensiven und leicht scharfen Geschmack. Frisch oder gereift, auch geräuchert."
     }
   ]
 }
