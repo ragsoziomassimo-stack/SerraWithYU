@@ -1,12 +1,12 @@
 {
-  "title": "Rezepte der Leser",
-  "intro": "Hast du ein Familienrezept? Schreibe es hier und veröffentliche es: alle können es sehen.",
-  "author": "Dein Name",
-  "recipeName": "Name des Rezepts",
-  "recipeText": "Rezept schreiben: Zutaten und Zubereitung",
-  "publish": "Rezept veröffentlichen",
-  "published": "Rezept veröffentlicht",
-  "error": "Veröffentlichen nicht möglich, bitte erneut versuchen",
-  "empty": "Noch keine Rezepte, schreibe das erste!",
-  "by": "von"
+  "title": "Readers’ recipes",
+  "intro": "Got a family recipe? Write it here and publish it: everyone will see it.",
+  "author": "Your name",
+  "recipeName": "Recipe name",
+  "recipeText": "Write the recipe: ingredients and method",
+  "publish": "Publish recipe",
+  "published": "Recipe published",
+  "error": "Could not publish, try again",
+  "empty": "No recipes yet, write the first!",
+  "by": "by"
 }

@@ -1,11 +1,11 @@
 {
-  "h_card": "🏠 Häuser zu verkaufen oder zu vermieten",
-  "portalsTitle": "Häuser zu verkaufen/vermieten auf Immobilienportalen",
-  "portalsIntro": "Durchsuchen Sie Angebote von Agenturen auf den wichtigsten Immobilienportalen, gefiltert nur nach Serracapriola.",
-  "portal.immobiliareVendita": "Immobiliare.it — Verkauf",
-  "portal.immobiliareAffitto": "Immobiliare.it — Vermietung",
-  "portal.idealistaVendita": "Idealista.it — Verkauf",
-  "portal.idealistaAffitto": "Idealista.it — Vermietung",
-  "portal.casaIt": "Casa.it — Verkauf",
-  "portal.subitoIt": "Subito.it — Anzeigen"
+  "h_card": "🏠 Houses for Sale or Rent",
+  "portalsTitle": "Homes for sale/rent on real estate portals",
+  "portalsIntro": "Browse listings from agencies on the main real estate portals, filtered to Serracapriola only.",
+  "portal.immobiliareVendita": "Immobiliare.it — For Sale",
+  "portal.immobiliareAffitto": "Immobiliare.it — For Rent",
+  "portal.idealistaVendita": "Idealista.it — For Sale",
+  "portal.idealistaAffitto": "Idealista.it — For Rent",
+  "portal.casaIt": "Casa.it — For Sale",
+  "portal.subitoIt": "Subito.it — Listings"
 }

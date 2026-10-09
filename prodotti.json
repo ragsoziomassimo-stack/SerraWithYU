@@ -1,62 +1,62 @@
 {
-  "title": "🛒 Typische Produkte",
-  "subtitle": "Die gastronomischen Köstlichkeiten von Serracapriola und dem Daunia-Apennin",
+  "title": "🛒 Typical Products",
+  "subtitle": "The gastronomic excellence of Serracapriola and the Daunia Apennines",
   "products": [
     {
-      "name": "Natives Olivenöl Extra",
-      "desc": "Serracapriola ist ein Land tausendjähriger Olivenbäume. Das lokale Öl mit seinem fruchtigen und leichten Geschmack wird von historischen Ölmühlen der Region hergestellt. Sorten Ogliarola und Peranzana, jeden Herbst von Hand geerntet."
+      "name": "Extra Virgin Olive Oil",
+      "desc": "Serracapriola is a land of millenary olive trees. The local oil, with its fruity and light flavour, is produced by historic mills in the area. Ogliarola and Peranzana varieties, hand-picked every autumn."
     },
     {
-      "name": "Brot & Bäckerei",
-      "desc": "Das Brot von Serracapriola wird im Holzofen gebacken, mit lokalem Hartweizenmehl. Außen duftend, innen weich, hält es sich tagelang. Typisch sind auch Friselle und rustikales Landbrot."
+      "name": "Bread & Bakery",
+      "desc": "Serracapriola's bread is wood-fired, made with local durum wheat flour. Fragrant outside, soft inside, it keeps for days. Also typical are friselle and rustic country bread."
     },
     {
       "name": "Taralli",
-      "desc": "Apulische Taralli sind das Symbol des lokalen Street Foods: mit Olivenöl, Weißwein und Fenchel geknetet, dann gekocht und goldbraun gebacken. Knusprig und unwiderstehlich. Wo man sie findet: I Taralli di Zio Pino, Via Cavalier de Luca 20, Tel. 347 665 2559 (Nummer bitte vorher prüfen)."
+      "desc": "Apulian taralli are the symbol of local street food: kneaded with olive oil, white wine and fennel, then boiled and baked until golden. Crunchy and irresistible. Where to find them: I Taralli di Zio Pino, Via Cavalier de Luca 20, tel. 347 665 2559 (please check the number first)."
     },
     {
       "name": "Pampanella",
-      "desc": "Pampanella ist ein typisches Gericht der Region: Schweinefleisch mariniert mit Chili, Knoblauch und Essig, langsam im Ofen gegart. Würzig und scharf, Hauptdarsteller der Dorffeste."
+      "desc": "Pampanella is a typical dish of the area: pork marinated with chilli pepper, garlic and vinegar, slowly cooked in the oven. Tasty and spicy, it is the star of village festivals."
     },
     {
-      "name": "Cruschi-Paprika (\"Diavlill\")",
-      "desc": "Cruschi-Paprika — im lokalen Dialekt \"diavlill\" genannt — sind süße Paprikaschoten, die in der Sonne getrocknet und dann in heißem Öl frittiert werden, bis sie knusprig und bröselig sind. Eine Explosion aus süß-rauchigem Geschmack, als Vorspeise, über Pasta oder Eiern zerbröselt oder einfach als Snack. Slow Food Presidium und eines der authentischsten Symbole der Bauernküche des Daunia-Apennin."
+      "name": "Cruschi Peppers (\"Diavlill\")",
+      "desc": "Cruschi peppers — called \"diavlill\" in local dialect — are sweet peppers dried in the sun and then fried in boiling oil until ultra-crispy and crumbly. A burst of sweet-smoky flavour, used as a starter, crumbled on pasta, eggs or simply as a snack. A Slow Food Presidium, they are one of the most authentic symbols of Daunia's peasant cuisine."
     },
     {
-      "name": "Wurst & Wurstwaren",
-      "desc": "Die lokale Wurst wird aus ausgewähltem Schweinefleisch, Chili, Fenchel und lokalen Gewürzen hergestellt. Frisch oder gereift, begleitet sie Pasta und Grillgerichte. Auch handwerklicher Capocollo und Soppressata."
+      "name": "Sausage & Charcuterie",
+      "desc": "The local sausage is made with selected pork, chilli pepper, fennel and local spices. Fresh or aged, it accompanies pasta and grills. Also artisanal capocollo and soppressata."
     },
     {
-      "name": "Wein",
-      "desc": "Das Gebiet produziert robuste und duftende Weine auf Basis von Nero di Troia und Montepulciano d'Abruzzo. Echte Rot-, Rosé- und Weißweine, ideal zur lokalen Küche."
+      "name": "Wine",
+      "desc": "The territory produces robust and fragrant wines based on Nero di Troia and Montepulciano d'Abruzzo grapes. Genuine reds, rosés and whites, ideal with local cuisine."
     },
     {
       "name": "Pasta & Orecchiette",
-      "desc": "Handgemachte Orecchiette und Cavatelli werden noch immer von den Hausfrauen zubereitet. Mit Lammragù, Steckrübengrün oder frischen Tomaten vom Tavoliere angemacht, sind sie das Herz der Küche von Serracapriola."
+      "desc": "Handmade orecchiette and cavatelli are still rolled by local housewives. Dressed with lamb ragù, turnip tops or fresh tomato from the Tavoliere plain, they are the heart of Serracapriola's cuisine."
     },
     {
       "name": "Torcinelli",
-      "desc": "Torcinelli sind eines der ältesten und identitätsstärksten Gerichte der lokalen Küche. Innereien von Lamm oder Zicklein — Leber, Lunge, Herz — in Därme gewickelt und auf dem Grill oder in der Pfanne mit Knoblauch, Petersilie und Chili gegart. Intensiver und rustikaler Geschmack, Symbol der Bauernküche des Daunia-Apennin."
+      "desc": "Torcinelli are one of the oldest and most identity-defining dishes of the local cuisine. Lamb or kid offal — liver, lung, heart — wrapped in intestines and cooked on the grill or in a pan with garlic, parsley and chilli. Intense and rustic flavour, symbol of the peasant cooking of the Daunia Apennines."
     },
     {
       "name": "Zeppole di San Giuseppe",
-      "desc": "Zeppole di San Giuseppe sind das klassische Vatertags-Gebäck (19. März). Brandteig, frittiert oder gebacken, gefüllt mit Vanillecreme und Sauerkirschen. In Serracapriola werden sie noch zu Hause nach Großmutters Rezept zubereitet, innen weich und außen goldbraun."
+      "desc": "Zeppole di San Giuseppe are the classic Father's Day pastry (19 March). Choux pastry, fried or baked, filled with custard cream and sour cherries in syrup. In Serracapriola they are still made at home with grandmothers' recipes, soft inside and golden outside."
     },
     {
       "name": "Mostaccioli",
-      "desc": "Mostaccioli sind harte, gewürzte Kekse aus Süditalien, hergestellt aus eingedicktem Traubenmost, Mehl, Mandeln, Zimt, Nelken und Pfeffer. In Serracapriola werden sie zu Festen gebacken und sind lange haltbar. Jede Familie hat ihr eigenes, über Generationen weitergegebenes Rezept."
+      "desc": "Mostaccioli are hard, spiced biscuits typical of southern Italy, made with grape must, flour, almonds, cinnamon, cloves and pepper. In Serracapriola they are made for festivities and keep for a long time. Every family has its own recipe passed down through generations."
     },
     {
-      "name": "Mandelgebäck",
-      "desc": "Mandelgebäck gehört zu den raffiniertesten Spezialitäten der lokalen Konditorei. Mit Orangenblütenwasser parfümierte Mandelmassen, von Hand in Obst- oder Blumenformen modelliert und mit buntem Zucker dekoriert. Außen weich, innen intensiv aromatisch — unverzichtbar bei Hochzeiten und Festen."
+      "name": "Almond Sweets",
+      "desc": "Almond sweets are among the most refined specialities of local pastry-making. Almond pastes perfumed with orange blossom water, hand-moulded into fruit or flower shapes and decorated with coloured sugar. Soft outside, intensely aromatic inside — unmissable at weddings and festivals."
     },
     {
       "name": "Pasticciotti",
-      "desc": "Ein Pasticciotto ist eine buttrige Mürbteig-Hülle gefüllt mit dichter Vanillecreme, goldbraun gebacken. Typisch für Apulien und Salento, hat es auch auf den Tischen von Serracapriola Einzug gehalten und ist eines der beliebtesten Gebäcke für Groß und Klein — perfekt zum Frühstück oder als Snack."
+      "desc": "A pasticciotto is a buttery shortcrust shell filled with thick custard cream, baked until golden. Typical of Puglia and Salento, it has also found its way onto Serracapriola's tables, becoming one of the most beloved pastries for young and old — perfect for breakfast or a snack."
     },
     {
       "name": "Caciocavallo",
-      "desc": "Podolico-Caciocavallo ist der König der Käse aus dem Daunia-Apennin. Aus der Milch von Podolica-Weidekühen hergestellt, hat er einen intensiven und leicht scharfen Geschmack. Frisch oder gereift, auch geräuchert."
+      "desc": "Podolico caciocavallo is the king of cheeses from the Daunia Apennines. Made with milk from free-ranging Podolica cows, it has an intense and slightly spicy flavour. Fresh or aged, also smoked."
     }
   ]
 }

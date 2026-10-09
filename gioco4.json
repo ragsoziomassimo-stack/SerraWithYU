@@ -1,13 +1,13 @@
 {
-  "title": "🔍 Rate Serracapriola",
-  "intro": "Das Foto ist unscharf: Erkennst du, welcher Ort oder Moment aus Serracapriola es ist? Wähle eine von 4 Antworten.",
-  "photo": "Foto",
-  "score": "Punkte",
-  "blurred": "Unscharfes Foto",
-  "next": "Nächstes Foto",
-  "results": "Ergebnis ansehen",
-  "great": "Super, du kennst Serracapriola gut!",
-  "good": "Gut, aber es geht noch besser.",
-  "retry": "Versuch es nochmal: die Geschichte des Ortes wartet.",
-  "playAgain": "Nochmal spielen"
+  "title": "🔍 Guess Serracapriola",
+  "intro": "The photo is blurred: can you tell which place or moment of Serracapriola it is? Pick one of 4 answers.",
+  "photo": "Photo",
+  "score": "Score",
+  "blurred": "Blurred photo",
+  "next": "Next photo",
+  "results": "See result",
+  "great": "Great, you know Serracapriola well!",
+  "good": "Good, but you can do even better.",
+  "retry": "Try again: the town history awaits.",
+  "playAgain": "Play again"
 }
