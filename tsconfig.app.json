@@ -22,7 +22,9 @@
     "paths": {
       "@/convex/*": ["./convex/*"],
       "@/*": ["./src/*"]
-    }
+    },
+    "types": ["canvas-confetti", "leaflet", "node", "react", "react-dom"],
+    "noUncheckedSideEffectImports": false
   },
   "include": ["./src"]
 }

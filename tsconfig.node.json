@@ -15,7 +15,9 @@
     "noEmit": true,
 
     /* Linting */
-    "strict": true
+    "strict": true,
+    "types": ["canvas-confetti", "leaflet", "node", "react", "react-dom"],
+    "noUncheckedSideEffectImports": false
   },
   "include": ["vite.config.ts"]
 }
